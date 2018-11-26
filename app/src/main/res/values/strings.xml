@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="large_text">
+        "Material is the metaphor. \n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="type_array">
+        <item>Food</item>
+        <item>Stationary</item>
+        <item>Clothing</item>
+        <item>Electronics</item>
+        <item>School</item>
+        <item>Alcohol</item>
+        <item>Other</item>
+    </string-array>
+    <string name="type">Type</string>
+    <string name="item">Item</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="description">Description</string>
+    <string name="already_purchased">Already purchased?</string>
+    <string name="delete_all">Delete All</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="my_shopping_list">My Shopping List</string>
+    <string name="enterPassword">Please enter your password</string>
+    <string name="incorrectPassword">Incorrect Password</string>
+    <string name="correctPassword">1234</string>
+    <string name="cannotBeEmpty">Cannot be empty</string>
+    <string name="new_item">New item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="save">Save</string>
+    <string name="cannot_be_empty">This field can not be empty</string>
+    <string name="does_not_implement">The activity does not implement the TodoHandlerInterface</string>
+    <string name="food">Food</string>
+    <string name="stationary">Stationary</string>
+    <string name="clothing">Clothing</string>
+    <string name="electronics">Electronics</string>
+    <string name="school">School</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="price">Price</string>
+    <string name="shopping">Shopping List</string>
+    <string name="add_to_list">Click here add to your list</string>
+    <string name="food2">Food</string>
+    <string name="item_type">Item Type:</string>
+</resources>
